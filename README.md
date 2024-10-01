@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/4d1224fb53bdce6aa39aca1cb3dcbe83/a045793d-8563-45f2-9ea6-47eea8e02068_rwc_0x0x5746x819x5746.png?h=18e9783af2651e443636e8bb24954103)]
 <h1 align="center">Hi 👋, I'm André Manoel</h1>
 <h3 align="center">How you feel today?</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif")
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/4I9G.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andremluna&label=Profile%20views&color=0e75b6&style=flat" alt="andremluna" /> </p>
 
