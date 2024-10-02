@@ -1,6 +1,9 @@
 <br clear="both">
 
-<h2 align="center">crafting seamless digital experiences.</h2>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+<h2 align="center" class="animate__animated animate__fadeIn">crafting seamless digital experiences.</h2>
+
 
 ###
 
